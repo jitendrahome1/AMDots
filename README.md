@@ -38,6 +38,6 @@ Abedalkareem, abedalkareem.omreyh@yahoo.com
 
 AMDots is available under the MIT license. See the LICENSE file for more info.
 
-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
+
 
 
